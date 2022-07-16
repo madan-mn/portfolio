@@ -44,7 +44,7 @@ const Home2 = () => {
           ></Icon>
           <div className="container">
             <div className="image">
-              <a href="/#">
+              <a href="/portfolio/#">
                 <img src={require("./images/profile.png")} alt="Madan M N" />
               </a>
             </div>
@@ -91,19 +91,19 @@ const Home2 = () => {
               <Row>
                 <Col>
                   {" "}
-                  <Icon icon="phone" />
+                  <Icon icon="phone" size="xl" />
                   <br />
                   +91 7019081685
                 </Col>
                 <Col>
-                  <Icon icon="envelope" />
+                  <Icon icon="envelope" size="xl" />
                   <br />
                   <a href="mailto:madan.mn@yahoo.com">madan.mn@yahoo.com</a>
                 </Col>
               </Row>
               <Row>
                 <Col>
-                  <Icon icon="map-marker-alt" />
+                  <Icon icon="map-marker-alt" size="xl" />
                   <br />
                   Bengaluru
                 </Col>
@@ -118,6 +118,7 @@ const Home2 = () => {
                       icon={["fab", "linkedin-in"]}
                       color="#0a66c2"
                       style={{ marginRight: 5 }}
+                      size="xl"
                     />
                     <br />
                     LinkedIn
@@ -137,6 +138,7 @@ const Home2 = () => {
                         icon={["fab", "whatsapp"]}
                         color="#25D366"
                         style={{ marginRight: 5 }}
+                        size="xl"
                       />
                       <br />
                       WhatsApp
