@@ -283,10 +283,6 @@ const Home2 = () => {
                     Design graphic user interface elements, like menus, tabs and
                     widgets (XD, PS, AI, Figma)
                   </li>
-                  <li>
-                    Develop UI mockups and prototypes that clearly illustrate
-                    how sites function and look like{" "}
-                  </li>
                   <li>Graphic designing (with PS,PR,Filmora,Figma,XD,AI)</li>
                   <li>
                     Plan, execute, and measure experiments and conversion tests
