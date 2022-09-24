@@ -93,7 +93,7 @@ const Home2 = () => {
                   {" "}
                   <Icon icon="phone" size="xl" />
                   <br />
-                  +91 7019081685
+                  +91 9739639289
                 </Col>
                 <Col>
                   <Icon icon="envelope" size="xl" />
