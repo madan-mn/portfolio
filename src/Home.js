@@ -129,7 +129,7 @@ const Home2 = () => {
                 <Col>
                   <Col>
                     <a
-                      href="https://api.whatsapp.com/send?phone=917019081685&text=Hi%20Madan%20MN%20I%20would%20like%20to%20get%20in%20touch%20with%20you"
+                      href="https://api.whatsapp.com/send?phone=919739639289&text=Hi%20Madan%20MN%20I%20would%20like%20to%20get%20in%20touch%20with%20you"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text"
