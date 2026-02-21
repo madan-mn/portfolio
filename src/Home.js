@@ -253,7 +253,7 @@ const Home2 = () => {
             <div className="line-dec"></div>
             <div className="section-content">
               <div>
-                <h6>Branding Associate - QSpiders</h6>
+                <h6>Branding Associate - QSpiders</h6> 
               </div>
               <div>
                 <p>
