@@ -93,7 +93,7 @@ const Home2 = () => {
                   {" "}
                   <Icon icon="phone" size="xl" />
                   <br />
-                  +91 9739639289
+                  +91 9071511031
                 </Col>
                 <Col>
                   <Icon icon="envelope" size="xl" />
@@ -254,7 +254,6 @@ const Home2 = () => {
             <div className="section-content">
               <div>
                 <h6>Branding Associate - QSpiders</h6>
-                <h6>Aug 2021-Present</h6>
               </div>
               <div>
                 <p>
