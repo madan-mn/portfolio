@@ -311,7 +311,7 @@ const Home2 = () => {
             <div className="section-content">
               <div>
                 <h6>Assistant Manager - Kotak Securities Ltd. </h6>
-                <h6>Dec 2019 - Sep 2020</h6>
+                
               </div>
               <div>
                 <p>
@@ -357,7 +357,7 @@ const Home2 = () => {
                   Business Development- Client Engagement - TestYantra Software
                   Solutions{" "}
                 </h6>
-                <h6>Feb 2018- Oct 2019</h6>
+                
               </div>
               <div>
                 <p>
@@ -406,7 +406,7 @@ const Home2 = () => {
                   Assistant Manager in Business Development - Handiman Services
                   Ltd
                 </h6>
-                <h6>Aug 2017－Dec 2017</h6>
+                
               </div>
               <div>
                 <ul>
